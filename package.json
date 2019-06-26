@@ -1,11 +1,11 @@
 {
   "name": "node-red-contrib-cos",
-  "version": "0.0.15",
-  "description": "Node-Red Nodes for IBM Cloud Object Storage service.",
+  "version": "0.0.16",
+  "description": "Node-Red Nodes for IBM Cloud Object Storage service. Temp fork from git@github.com:O-Hahn/node-red-contrib-cos"",
   "main": "cos.js",
   "repository": {
     "type": "git",
-    "url": "git@github.com:O-Hahn/node-red-contrib-cos"
+    "url": "git@github.com:burtonboucher/node-red-contrib-cos"
   },
   "keywords": [
     "ibm",
@@ -18,8 +18,8 @@
     "object storage"
   ],
   "author": {
-    "name": "Olaf Hahn",
-    "email": "olaf@fam-hahn.com"
+    "name": "Olaf Hahn burton boucher",
+    "email": "burtonboucher@gmail.com"
   },
   "license": "Apache-2.0",
   "node-red": {
@@ -28,7 +28,7 @@
     }
   },
   "bugs": {
-    "url": "https://github.com/O-Hahn/node-red-contrib-cos/issues"
+    "url": "https://github.com/burtonboucher/node-red-contrib-cos/issues"
   },
   "dependencies": {
     "es6-error": "latest",
